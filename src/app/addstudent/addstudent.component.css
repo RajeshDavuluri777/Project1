@@ -1,0 +1,10 @@
+.form-control{
+    font-size:15px;
+    min-height:48px;
+    font-weight: 500;
+    width:25%;
+}
+.form-control:focus{
+border-color: #723dbe;
+box-shadow:0 0 0 0.2rem rgba(114,61,190,.25);
+}

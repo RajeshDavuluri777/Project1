@@ -1,0 +1,45 @@
+{
+  "schedule": [
+    {
+      "class": 7,
+      "period1": "English",
+      "period2": "Hindi",
+      "period3":"Maths",
+      "period4":"Social",
+      "period5":"Science",
+      "period6":"Telugu"
+
+    },
+    {
+      "class": 8,
+      "period1": "Telugu",
+      "period2": "Hindi",
+      "period3":"Maths",
+      "period4":"Social",
+      "period5":"Science",
+      "period6":"English"
+
+    },
+    {
+      "class": 9,
+      "period1": "English",
+      "period2": "Hindi",
+      "period3":"Social",
+      "period4":"Maths",
+      "period5":"Science",
+      "period6":"Telugu"
+
+    },
+    {
+      "class": 10,
+      "period1": "English",
+      "period2": "Hindi",
+      "period3":"Maths",
+      "period4":"Social",
+      "period5":"Science",
+      "period6":"Telugu"
+
+    }
+  ]
+  
+}

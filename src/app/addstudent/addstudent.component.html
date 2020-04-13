@@ -1,0 +1,13 @@
+<a routerLink="/Page/staff">Back</a>
+<h2>
+    Add New Student
+</h2>
+<form id="formNewStudent" name="formNewStudent" #studentData="ngForm" (ngSubmit)="addstudentfromapi(studentData.value)">
+  <input type="text" class="form-control rounded-pill form-control-lg" name="username" id="name" placeholder="StudentName" ngModel><br>
+ <input type="text"  class="form-control rounded-pill form-control-lg"name="password" id="password" placeholder="Password" ngModel><br>
+ <input type="text" class="form-control rounded-pill form-control-lg" name="id" id="Id"placeholder="Id" ngModel><br>
+ <input type="text" class="form-control rounded-pill form-control-lg" name="Role" id="role" placeholder="Role" ngModel><br>
+ <input type="submit" class="form-control rounded-pill form-control-lg" value="Add">
+</form>
+<br>
+<h3 *ngIf="isAdded">{{confirmationString}}</h3>

@@ -1,0 +1,49 @@
+{
+  "staff": [
+    {
+      "id": 1,
+      "username": "Manik",
+      "password": "12345678",
+      "Role":"admin",
+      "subject":"English"
+    },
+    {
+      "id": 2,
+      "username": "Pavan",
+      "password": "12345670",
+      "Role":"admin",
+      "subject":"Maths"
+    },
+    {
+      "id": 3,
+      "username": "Sai",
+      "password": "12345671",
+      "Role":"admin",
+      "subject":"Social"
+    },
+    {
+      "id": 4,
+      "username": "Jagan",
+      "password": "12345672",
+      "Role":"admin",
+      "subject":"Science"
+
+    },
+    {
+      "id": 5,
+      "username": "Pradeep",
+      "password": "12345673",
+      "Role":"admin",
+      "subject":"Hindi"
+    },
+    {
+      "id": 6,
+      "username": "Pradeep",
+      "password": "12345673",
+      "Role":"admin",
+      "subject":"Telugu"
+    }
+
+  ]
+  
+}

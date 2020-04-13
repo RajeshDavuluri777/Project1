@@ -1,0 +1,73 @@
+{
+  "students": [
+    {
+      "username": "Rajesh",
+      "password": "12345678",
+      "id": 1,
+      "Role": "user",
+      "Telugu": "81",
+      "English": "90",
+      "Hindi": "75",
+      "Maths": "100",
+      "Science": "85",
+      "Social": "95"
+    },
+    {
+      "username": "Barath",
+      "password": "12345670",
+      "id": 2,
+      "RollNo": 33,
+      "Role": "user",
+      "Telugu": "80",
+      "English": "90",
+      "Hindi": "75",
+      "Maths": "100",
+      "Science": "85",
+      "Social": "95"
+    },
+    {
+      "username": "Koushik",
+      "password": "12345671",
+      "id": 3,
+      "RollNo": 44,
+      "Role": "user",
+      "Telugu": "80",
+      "English": "90",
+      "Hindi": "75",
+      "Maths": "100",
+      "Science": "85",
+      "Social": "95"
+    },
+    {
+      "username": "Sravan",
+      "password": "12345672",
+      "id": 4,
+      "RollNo": 55,
+      "Role": "user",
+      "Telugu": "80",
+      "English": "90",
+      "Hindi": "75",
+      "Maths": "100",
+      "Science": "85",
+      "Social": "95"
+    },
+    {
+      "username": "Vamsi",
+      "password": "12345673",
+      "id": 5,
+      "Role": "user"
+    },
+    {
+      "username": "Chandrababu",
+      "password": "12345666",
+      "id": "8",
+      "Role": "user"
+    },
+    {
+      "username": "Lenin",
+      "password": "12345666",
+      "id": "9",
+      "Role": "user"
+    }
+  ]
+}
